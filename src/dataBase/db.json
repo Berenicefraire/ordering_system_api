@@ -1,0 +1,27 @@
+{
+    "assets": [
+      { "colorId": 1,
+        "colorName":"gris jaspe"
+      },
+      {
+        "colorId": 2,
+        "colorName":
+        "café jaspe"
+      },
+      {
+        "colorId": 3,
+        "colorName":
+        "azul jaspe"
+      },
+      {
+        "colorId": 4,
+        "colorName":
+        "verde jaspe"
+      },
+      {
+        "colorId": 5,
+        "colorName":
+        "blanco"
+      }
+    ]
+  }
