@@ -1,2 +1,2 @@
-const db = require('../dataBase/dbController')
+const db = require('../controllers/dbController')
 

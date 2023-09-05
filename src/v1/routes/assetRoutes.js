@@ -8,6 +8,7 @@ router
   .get("/getGenders", assetController.getGenders)
   .get("/getSizes", assetController.getSizes)
   .get("/getTextilType", assetController.getTextilType)
+  .get("/getOrderPlace", assetController.getOrderPlace)
   .post('/saveOrder', saveOrderController.saveOrder)
   
   module.exports = router;

@@ -10,6 +10,6 @@ const corsOption = {
 
 app.use(express.json());
 app.use(cors(corsOption));
-app.use("/test/v1", v1assetRouter)
+app.use("/pedidos/v1", v1assetRouter)
 
 app.listen(PORT, () => {console.log(`Server listening on port ${PORT}`)});
